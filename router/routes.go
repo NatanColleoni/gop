@@ -1,7 +1,7 @@
 package router
 
 import (
-	handler "github.com/NatanColleoni/gop/handler"
+	handler "github.com/NatanColleoni/gop/handler/opening"
 	gin "github.com/gin-gonic/gin"
 )
 
